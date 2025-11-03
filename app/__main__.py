@@ -1,0 +1,1 @@
+print("Hello, Whanos from Python!")
